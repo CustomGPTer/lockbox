@@ -41,10 +41,6 @@ LockBox cannot protect an open vault from spy software on a rooted phone, from s
 or from a short PIN that is easy to guess. It is new and has not had an independent security review. The
 source is here so that anyone can check it.
 
-## Building
-
-The app is in the `android` folder. See `android/README.md`.
-
 ## Licence
 
-© 2026 Jonathan Jackson. Published under the GNU General Public License, version 3 (see `LICENSE`).
+© 2026 Jonathan Jackson. All rights reserved. The app's source code is not published; this repository holds the website and the app releases.
